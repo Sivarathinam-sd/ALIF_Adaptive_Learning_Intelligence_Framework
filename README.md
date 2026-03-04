@@ -1,1 +1,1 @@
-# Adaptive bLearning Intelligence Framework
+# Adaptive Learning Intelligence Framework
